@@ -1,0 +1,11 @@
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\bin\Debug\TP1.exe.config
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\bin\Debug\TP1.exe
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\bin\Debug\TP1.pdb
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.Form1.resources
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.exe
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.pdb
+F:\my document\computer science\SourceCode\DPBO_prak\TP1PBO2021\TP1\TP1\obj\Debug\TP1.FormUtama.resources
